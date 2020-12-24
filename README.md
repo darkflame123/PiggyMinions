@@ -3,7 +3,7 @@
 PiggyMinions is a WIP plugin implementing minions for PMMP.
 
 ## Obtaining Minions
-Currently there are no built in commands for giving yourself minions. Instead, use this /give command template, with ActionType being 0 for mining or 1 for farming & target id being the block id:
+Currently there are no built in commands for mkaqkgiving yourself minions. Instead, use this /give command template, with ActionType being 0 for mining or 1 for farming & target id being the block id:
 ```
 /give MCPEPIG skull:3 1 {MinionInformation:{MinionType:{ActionType:0,TargetID:56}}}
 ```
